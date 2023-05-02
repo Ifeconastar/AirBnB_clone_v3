@@ -95,6 +95,8 @@ class TestFileStorage(unittest.TestCase):
         expected = 3
         self.assertEqual(expected, count_amenity)
 
+
+
     def test_count_all(self):
         """
 		it checks if count() functions with no class
