@@ -1,1 +1,1 @@
-this directory contains the API project at alx SE program
+# To be updated
